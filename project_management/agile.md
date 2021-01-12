@@ -51,9 +51,9 @@ include: <kbd>convoluted development cycles</kbd>,
 
 <p>This is done by having a Scrum master whose main job is designed to clear
 away obsticles in order to work more efficiently. These work periods are called
-`sprints,` and the team meets daily to discuss progress or possible roadblocks
-that need to be solved. This type of management gives teams the ability to build
-projects fast that can be tested within fairly small teams.</p>
+`sprints,` which last 2 weeks and the team meets daily to discuss progress or 
+possible roadblocks that need to be solved. This type of management gives teams 
+the ability to build projects fast that can be tested within fairly small teams.</p>
 
 &nbsp;
 
