@@ -77,7 +77,3 @@ Processes are not as clearly laid out, but overall delivery of the product is mo
 complete in my opinion bc several iterations and revisions take place before the
 product is rolled out. This makes it better in my opinion for software development
 projects due to the ever changing demands of a client and their users.</p>
-
-&nbsp;
-
-<p style="text-indent:2em">The bla la la la</p>
