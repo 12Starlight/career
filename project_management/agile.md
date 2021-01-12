@@ -39,13 +39,26 @@ The most important part of this management processes success is
 
 ## **Kanban**
 
-
+&nbsp;
 
 ## **Scrum**
 
-## **Questions:**
+<p>Scrum is the most popular bc of it's simplicity to implement. Past problems
+that software engineers have struggled with also get solved. These problems
+include: <kbd>convoluted development cycles</kbd>, 
+<kbd>inflexibility with project plans</kbd>, and 
+<kbd>shifting production schedules</kbd>.</p>
 
--------------------------------------------------------------------------------
-> How does agile (Kaban / Scrum) differ from waterfall?
+<p>This is done by having a Scrum master whose main job is designed to clear
+away obsticles in order to work more efficiently. These work periods are called
+`sprints,` and the team meets daily to discuss progress or possible roadblocks
+that need to be solved. This type of management gives teams the ability to build
+projects fast that can be tested within fairly small teams.</p>
 
-Answer:
+&nbsp;
+
+**How does agile (Kaban / Scrum) differ from waterfall?**
+
+&nbsp;
+
+<p style="text-indent:2em">The bla la la la</p>
