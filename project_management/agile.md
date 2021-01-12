@@ -22,7 +22,24 @@ but also inflexible.</p>
 * Customer collaboration over contract negotiation
 * Responding to change over following a plan
 
+&nbsp;
+
+**What do these various agile frameworks have in common?**
+
+&nbsp;
+
+<p style="text-indent:2em">Customer <kbd>determines</kbd> objectives whether they 
+are internal or external, allowing the final deliverable to be flexible. Teams work 
+in <kbd>cycles</kbd> that are iterative and get evaluated at the end of each cycle. 
+Modifications take place at each evaluation based on the demands of the client. 
+The most important part of this management processes success is 
+<kbd>collaboration</kbd> between stakeholders and team members.</p>
+
+&nbsp;
+
 ## **Kanban**
+
+
 
 ## **Scrum**
 
