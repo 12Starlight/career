@@ -71,7 +71,12 @@ the ability to build projects fast that can be tested within fairly small teams.
 
 &nbsp;
 
-<p style="text-indent:2em"></p>
+<p style="text-indent:2em">Scrum and Kaban differ from waterfall in that they
+both work with the client in mind, giving the overall workflow more flexibility.
+Processes are not as clearly laid out, but overall delivery of the product is more
+complete in my opinion bc several iterations and revisions take place before the
+product is rolled out. This makes it better in my opinion for software development
+projects due to the ever changing demands of a client and their users.</p>
 
 &nbsp;
 
