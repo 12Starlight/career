@@ -39,6 +39,16 @@ The most important part of this management processes success is
 
 ## **Kanban**
 
+<p>Kaban is like Scrum, but is more based on a team's capacity to do work. It was
+founded by Toyota in the 1940's which used cards to signal that a team was ready
+for more raw materials, showing that team had more capacity to produce</p>
+
+<p>Today this type of management style is better suited for projects that have
+steady output. Teams create tasks represented in a visual format, often using
+sticky notes and whiteboards (virtually this is also the case), and move the
+notes, or tasks based on predetermined stages to represent progress as it happens
+and pinpoint roadblocks</p>
+
 &nbsp;
 
 ## **Scrum**
@@ -58,6 +68,10 @@ the ability to build projects fast that can be tested within fairly small teams.
 &nbsp;
 
 **How does agile (Kaban / Scrum) differ from waterfall?**
+
+&nbsp;
+
+<p style="text-indent:2em"></p>
 
 &nbsp;
 
