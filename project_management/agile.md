@@ -77,3 +77,19 @@ Processes are not as clearly laid out, but overall delivery of the product is mo
 complete in my opinion bc several iterations and revisions take place before the
 product is rolled out. This makes it better in my opinion for software development
 projects due to the ever changing demands of a client and their users.</p>
+
+&nbsp;
+
+# **Additional Notes:**
+
+### **Project Objectives**
+
+<kbd>SMART</kbd> objectives are goals oulined using the [SMART](https://www.wrike.com/project-management-guide/faq/what-is-smart-in-project-management/) goal system. SMART
+stands for:
+
+* Specific: Adopt a project management software that allows us to process more client requests.
+* Measurable: Compare our tarket KPI's from previous quarters to this one.
+* Attainable: Identifying bottlenecks and inefficiencies will help streamline our old processes and receive more client requests.
+* Relevant: This will help with client satisfaction, retention, and aquisition. All essential to the business.
+* Time-bound: This objective should be ready to assess at the end of the quarter.
+
