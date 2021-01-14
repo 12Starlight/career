@@ -93,3 +93,18 @@ stands for:
 * Relevant: This will help with client satisfaction, retention, and aquisition. All essential to the business.
 * Time-bound: This objective should be ready to assess at the end of the quarter.
 
+&nbsp;
+
+### **The Importance of Collaboration in Project Management**
+
+<p>The lack of collaboration causes projects to stagnate. Teams need to work together
+in order to pull off complex projects giving rise to innovation and ideas that crush
+the competition. Collaboration is important for two main reasons:</p>
+
+&nbsp;
+
+#### **Internal team collaboration increases productivity**
+
+&nbsp;
+
+#### **Collaborating with external stakeholders increases innovation**
