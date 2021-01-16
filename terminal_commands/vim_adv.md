@@ -27,3 +27,11 @@ and what it does 😉
 Note: VIM `words` are a sequence of letters, digits and underscores, or a sequence
 of puntuation marks, or an 💎 empty line 💎. Certain keys help you navigate words.
 
+&nbsp;
+
+<kbd>w</kbd> ~ [count] words forward. *Position the curser at the beginning of 
+the word.*
+
+Note: [count] means a number could be put in front of the <kbd>w</kbd>, which in 
+that case you would move [3] words forward and start on the 4th word. 
+
