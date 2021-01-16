@@ -51,3 +51,14 @@ beginning of the next word [2] times. Does not stop in an empty line.
 
 <kbd>b</kbd> ~ Move [count] words backwords, ending at each first character. 
 *Position the curser at the beginning of the word.*
+
+&nbsp;
+
+## **Level 3**
+
+<kbd>B</kbd> ~ [count] WORDS backwards, ending at the beginning character of the
+word. *Position the curser at the beginning of the WORD.
+
+Note: VIM `WORDS` are a sequence of non-blank characters, separated with white
+space (spaces, tabs, EOL). An empty line is also considered to be a WORD. Any
+sequence of non-blank characters is considered to be a word. 
