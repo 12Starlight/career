@@ -21,6 +21,6 @@ same column where you started!
 
 &nbsp;
 
-<kbd>:help</kbd> + <kbd>key_used</kbd>
+<kbd>:help</kbd> + <kbd>key_used</kbd> ~ Allows you to learn more about a key
+and what it does 😉
 
-<kbd></kbd>
