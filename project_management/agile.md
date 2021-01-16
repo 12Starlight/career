@@ -103,8 +103,13 @@ the competition. Collaboration is important for two main reasons:</p>
 
 &nbsp;
 
-#### **Internal team collaboration increases productivity**
+####  
+* **Internal team collaboration increases productivity**
+
+  <p></p>
 
 &nbsp;
 
-#### **Collaborating with external stakeholders increases innovation**
+#### 
+
+* **Collaborating with external stakeholders increases innovation**
