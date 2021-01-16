@@ -24,3 +24,6 @@ same column where you started!
 <kbd>:help</kbd> + <kbd>key_used</kbd> ~ Allows you to learn more about a key
 and what it does 😉
 
+Note: VIM `words` are a sequence of letters, digits and underscores, or a sequence
+of puntuation marks, or an empty line. Certain keys help you navigate words.
+
