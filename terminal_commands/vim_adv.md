@@ -61,4 +61,4 @@ word. *Position the curser at the beginning of the WORD.
 
 Note: VIM `WORDS` are a sequence of non-blank characters, separated with white
 space (spaces, tabs, EOL). An empty line is also considered to be a WORD. Any
-sequence of non-blank characters is considered to be a word. 
+sequence of non-blank characters is considered to be a WORD. 
