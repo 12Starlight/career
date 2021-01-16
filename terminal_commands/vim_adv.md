@@ -7,4 +7,4 @@ In the vim terminal type:
 
 ## **Level 1**
 
-<kbd>:help</kbd>
+<kbd>:help</kbd> + <kbd>key_used</kbd>
