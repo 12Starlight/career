@@ -25,5 +25,5 @@ same column where you started!
 and what it does 😉
 
 Note: VIM `words` are a sequence of letters, digits and underscores, or a sequence
-of puntuation marks, or an <span style="background-color: #29b6f6">empty line</span>. Certain keys help you navigate words.
+of puntuation marks, or an <mark style="background-color: #29b6f6">empty line</mark>. Certain keys help you navigate words.
 
