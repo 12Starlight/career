@@ -29,8 +29,8 @@ of puntuation marks, or an 💎 empty line 💎. Certain keys help you navigate 
 
 &nbsp;
 
-<kbd>w</kbd> ~ Move [count] words forward. *Position the curser at the beginning of 
-the word.*
+<kbd>w</kbd> ~ Move [count] words forward, ending at each first character. 
+*Position the curser at the beginning of the word.*
 
 Note: [count] means a number could be put in front of the <kbd>w</kbd>, which in 
 that case you would move [3] words forward and start on the 4th word. 
@@ -40,4 +40,10 @@ that case you would move [3] words forward and start on the 4th word.
 <kbd>e</kbd> ~ Move forward to the end of a word. *Position the curser at the end of
 the word.*
 
-Note: Does not stop in an empty line.
+Note: [count] <kbd>e</kbd> moves from the begining of a word to the end, then to the
+beginning of the next word [2] times. Does not stop in an empty line. 
+
+&nbsp;
+
+<kbd>b</kbd> ~ Move [count] words backwords, ending at each first character. 
+*Position the curser at the beginning of the word.*
