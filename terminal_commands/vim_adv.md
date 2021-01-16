@@ -29,7 +29,7 @@ of puntuation marks, or an 💎 empty line 💎. Certain keys help you navigate 
 
 &nbsp;
 
-<kbd>w</kbd> ~ [count] words forward. *Position the curser at the beginning of 
+<kbd>w</kbd> ~ Move [count] words forward. *Position the curser at the beginning of 
 the word.*
 
 Note: [count] means a number could be put in front of the <kbd>w</kbd>, which in 
@@ -37,7 +37,7 @@ that case you would move [3] words forward and start on the 4th word.
 
 &nbsp;
 
-<kbd>e</kbd> ~ Forward to the end of a word. *Position the curser at the end of
+<kbd>e</kbd> ~ Move forward to the end of a word. *Position the curser at the end of
 the word.*
 
 Note: Does not stop in an empty line.
