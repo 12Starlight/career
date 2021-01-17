@@ -76,3 +76,7 @@ current line [into a register if specified]. Does the same as 'dl'.
 
 ## **Level 4**
 
+<kbd>E</kbd> ~ Moves forward to the end of a WORD [count]. *Position the curser
+at the end of the WORD.*
+
+Note: Does not stop in an empty line.
