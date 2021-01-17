@@ -72,6 +72,8 @@ sequence of non-blank characters is considered to be a WORD.
 <kbd>x</kbd> ~ Delete [count] characters under and after the curser in the 
 current line [into a register if specified]. Does the same as 'dl'.
 
+<kbd>X</kbd> ~ Delete the character before the curser (Backspace)
+
 &nbsp;
 
 ## **Level 4**
@@ -93,3 +95,7 @@ the char you want after <kbd>r</kbd>.
 
 Note: If you give a [count] before <kbd>r</kbd>, VIM replaces [count] characters 
 with [count] {char}s.
+
+&nbsp;
+
+## **Level 5**
