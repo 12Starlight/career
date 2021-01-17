@@ -1131,7 +1131,7 @@ libxml2)/include/libxml2\nbundle install
 
 >  565  cd git
 
->  566  git clone git@github.com:DispatchBot/dispatchbot-api.git
+>  566  git clone xxxx
 
 >  567  ls ~/.ssh
 
@@ -1141,7 +1141,7 @@ libxml2)/include/libxml2\nbundle install
 
 >  570  cat ~/.ssh/id_rsa.pub| pbcopy
 
->  571  git clone git@github.com:DispatchBot/dispatchbot-api.git
+>  571  git clone xxxx
 
 >  572  cd dispatchbot-api
 
