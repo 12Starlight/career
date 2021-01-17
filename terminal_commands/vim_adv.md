@@ -111,3 +111,12 @@ Note: Motions include <kbd>w or W</kbd>, <kbd>e or E</kbd>, <kbd>b or B</kbd>,
 <kbd>D</kbd> ~ Delete from the current position until the end of the line.
 
 Note: Regardless of the curser position in the line, the entire line is deleted.
+
+&nbsp;
+
+## **Level 6**
+
+<kbd>~</kbd> ~ Switch case of the character under the curser and move the curser
+to the right.
+
+Note: If a [count] is given, do that many characters.
