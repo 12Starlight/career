@@ -99,3 +99,15 @@ with [count] {char}s.
 &nbsp;
 
 ## **Level 5**
+
+<kbd>d{motion}</kbd> ~ Delete text that {motion} moves over [into a register if
+specified].
+
+Note: Motions include <kbd>w or W</kbd>, <kbd>e or E</kbd>, <kbd>b or B</kbd>,
+<kbd>h, j, k, l</kbd>.
+
+<kbd>dd</kbd> ~ Delete [count] whole lines [into a register].
+
+<kbd>D</kbd> ~ Delete from the current position until the end of the line.
+
+Note: Regardless of the curser position in the line, the entire line is deleted.
