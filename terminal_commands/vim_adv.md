@@ -80,3 +80,11 @@ current line [into a register if specified]. Does the same as 'dl'.
 at the end of the WORD.*
 
 Note: Does not stop in an empty line.
+
+&nbsp;
+
+<kbd>r{char}</kbd> ~ Replace the character under the curser with {char} by typing
+the char you want after <kbd>r</kbd>.
+
+Note: If you give a [count] before <kbd>r</kbd>, VIM replaces [count] characters 
+with [count] {char}s.
