@@ -83,6 +83,11 @@ Note: Does not stop in an empty line.
 
 &nbsp;
 
+<kbd>W</kbd> ~ [count] WORDS forward. *Position the curser at the beginning of the
+WORD.*
+
+&nbsp;
+
 <kbd>r{char}</kbd> ~ Replace the character under the curser with {char} by typing
 the char you want after <kbd>r</kbd>.
 
