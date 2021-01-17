@@ -24,6 +24,10 @@ same column where you started!
 <kbd>:help</kbd> + <kbd>key_used</kbd> ~ Allows you to learn more about a key
 and what it does 😉
 
+<kbd>:w</kbd> [name] saves a new game.
+
+<kbd>:w!</kbd> saves the original game or overwrites the original game.
+
 &nbsp;
 
 ## **Level 2**
@@ -62,3 +66,13 @@ word. *Position the curser at the beginning of the WORD.
 Note: VIM `WORDS` are a sequence of non-blank characters, separated with white
 space (spaces, tabs, EOL). An empty line is also considered to be a WORD. Any
 sequence of non-blank characters is considered to be a WORD. 
+
+&nbsp;
+
+<kbd>x</kbd> ~ Delete [count] characters under and after the curser in the 
+current line [into a register if specified]. Does the same as 'dl'.
+
+&nbsp;
+
+## **Level 4**
+
