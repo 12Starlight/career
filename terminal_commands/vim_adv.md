@@ -126,3 +126,7 @@ Note: If a [count] is given, do that many characters.
 <kbd>$</kbd> ~ To the end of the line.
 
 Note: When a count is given also go [count -1] lines downward.
+
+&nbsp;
+
+<kbd>0</kbd> ~ To the first character of the line.
