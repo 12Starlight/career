@@ -26,7 +26,7 @@ rbenv is initialized for Zsh.
 &nbsp;
 
 Now source <kbd>.zshrc</kbd> or restart the terminal.
-
+ 
 <kbd>source ~/.zshrc</kbd>
 
 &nbsp;
