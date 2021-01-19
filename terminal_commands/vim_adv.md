@@ -134,3 +134,9 @@ Note: When a count is given also go [count -1] lines downward.
 &nbsp;
 
 <kbd>^</kbd> ~ To the first non-blank character of the line.
+
+&nbsp;
+
+## **Level 7**
+
+Successfully got to level 7 😎🔥
