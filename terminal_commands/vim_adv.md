@@ -120,3 +120,9 @@ Note: Regardless of the curser position in the line, the entire line is deleted.
 to the right.
 
 Note: If a [count] is given, do that many characters.
+
+&nbsp;
+
+<kbd>$</kbd> ~ To the end of the line.
+
+Note: When a count is given also go [count -1] lines downward.
