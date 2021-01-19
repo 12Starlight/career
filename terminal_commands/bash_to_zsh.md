@@ -32,12 +32,12 @@ Now source <kbd>.zshrc</kbd> or restart the terminal.
 &nbsp;
 
 Add all <kbd>`$PATH`</kbd> statements from <kbd>`~/.bash_profile`</kbd> to your 
-<mark style="background:lightblue">~/.zshenv</mark> file.
+<mark style="background:lightblue">`~/.zshenv`</mark> file.
 
 &nbsp;
 
 Add all alias, functions, key bindings and more from <kbd>`~./bash_profile`</kbd> and 
-put them in your <mark style="background:lightgreen">~./zshrc</mark> file.
+put them in your <mark style="background:lightgreen">`~./zshrc`</mark> file.
 
 &nbsp;
 
