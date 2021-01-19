@@ -130,3 +130,7 @@ Note: When a count is given also go [count -1] lines downward.
 &nbsp;
 
 <kbd>0</kbd> ~ To the first character of the line.
+
+&nbsp;
+
+<kbd>^</kbd> ~ To the first non-blank character of the line.
