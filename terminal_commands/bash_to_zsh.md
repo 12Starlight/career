@@ -6,15 +6,16 @@ In the terminal run:
 
 &nbsp;
 
-Open <mark style="background:lightblue">.zshenv</mark> using `nano` or `vim` and put the following in the file.
+Open <mark style="background:lightblue">`.zshenv`</mark> using `nano` or `vim` and put the following in the file.
 
 <kbd>`export PATH="$HOME/.rbenv/bin:$PATH"`</kbd>
 
 &nbsp;
 
-Afterwords add the following lines to <mark style="background:lightgreen">.zshrc</mark>.
+Afterwords add the following lines to <mark style="background:lightgreen">`.zshrc`</mark>.
 
 <kbd>`source $HOME/.zshenv`</kbd>
+
 <kbd>`eval "$(rbenv init - zsh)"`</kbd>
 
 &nbsp;
@@ -30,12 +31,12 @@ Now source <kbd>.zshrc</kbd> or restart the terminal.
 
 &nbsp;
 
-Add all <kbd>`$PATH`</kbd> statements from <kbd>~/.bash_profile</kbd> to your 
+Add all <kbd>`$PATH`</kbd> statements from <kbd>`~/.bash_profile`</kbd> to your 
 <mark style="background:lightblue">~/.zshenv</mark> file.
 
 &nbsp;
 
-Add all alias, functions, key bindings and more from <kbd>~./bash_profile</kbd> and 
+Add all alias, functions, key bindings and more from <kbd>`~./bash_profile`</kbd> and 
 put them in your <mark style="background:lightgreen">~./zshrc</mark> file.
 
 &nbsp;
