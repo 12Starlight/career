@@ -39,3 +39,20 @@
 <kbd>ditto [new][old]</kbd> ~ Copies new directory, moves to old directory
 
 <kbd>curl -O [URL]</kbd> ~ Download a URL to a directory
+
+<kbd>;</kbd> ~ Allows you to type multiple commands on a line
+
+<kbd>ctr + c</kbd> ~ Interupt a command that is already running
+
+<kbd>cmd + shift + g</kbd> ~ Access root directory (/)
+
+&nbsp;
+
+### **Changing default for screenshots directory and file type**
+
+<kbd>defaults write com.apple.screencapture location [directory_path]</kbd>, then
+hit return, then <kbd>killall SystemUIServer</kbd> ~ Changes location of screenshots
+
+<kbd>defaults write com.apple.screencapture type JPG</kbd>, then hit return, then
+<kbd>killall SystemUIServer</kbd> ~ Changes default type (PNG) for screenshots
+
