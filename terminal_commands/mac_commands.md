@@ -34,3 +34,8 @@
 
 <kbd>rm -rf</kbd> ~ Deletes entire computer (**DO NOT DO**)
 
+<kbd>cat</kbd> ~ Prints contents of a file in terminal
+
+<kbd>ditto [new][old]</kbd> ~ Copies new directory, moves to old directory
+
+<kbd>curl -O [URL]</kbd> ~ Download a URL to a directory
