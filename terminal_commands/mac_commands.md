@@ -1,6 +1,6 @@
 # **Mac Commands**
 
-<kbd>cd</kbd> ~ Directory change
+<kbd>cd [directory_name]</kbd> ~ Directory change
 
 <kbd>ls</kbd> ~ Check the list inside directory
 
@@ -25,3 +25,12 @@
 <kbd>cmd + spacebar</kbd> ~ Opens finder (inside finder `/` takes you to root directory)
 
 <kbd>cp</kbd> ~ Copy a file
+
+<kbd>rm [file_name]</kbd> ~ Delete a file, to confirm <kbd>rm -l</kbd>
+
+<kdb>rm -R [directory_name]</kdb> ~ Deletes all files and subfolders, to confirm <kbd>rm -iR</kbd>
+
+<kbd>rm -rf [directory_name]</kbd> ~ Deletes a directory
+
+<kbd>rm -rf</kbd> ~ Deletes entire computer (**DO NOT DO**)
+
