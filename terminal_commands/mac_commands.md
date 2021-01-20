@@ -11,3 +11,7 @@
 <kbd>touch</kbd> ~ Make file
 
 <kbd>open</kbd> ~ Open file
+
+<kbd>ls -la</kbd> ~ Shows all files open including `.` files
+
+<kbd>ls -lah</kbd> ~ Shows all files open including `.` files and memory allocated
