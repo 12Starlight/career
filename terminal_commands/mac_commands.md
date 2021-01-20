@@ -56,3 +56,17 @@ hit return, then <kbd>killall SystemUIServer</kbd> ~ Changes location of screens
 <kbd>defaults write com.apple.screencapture type JPG</kbd>, then hit return, then
 <kbd>killall SystemUIServer</kbd> ~ Changes default type (PNG) for screenshots
 
+&nbsp;
+
+### **Notes:**
+
+Every commmand is made up of three elements: the command itself, an argument which
+tells the command what resource it should operate on, and an option that modifies the
+output.
+
+Unix has its own built-in manual. So, to learn more about a command type 
+<kbd>man [command_name]</kbd>.
+
+Commands are always executed in the current location. So, if you do not specify a
+location in the command, it will run where you last moved to in the diretory or where 
+the last command was ran. 
