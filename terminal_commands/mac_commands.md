@@ -70,3 +70,13 @@ Unix has its own built-in manual. So, to learn more about a command type
 Commands are always executed in the current location. So, if you do not specify a
 location in the command, it will run where you last moved to in the diretory or where 
 the last command was ran. 
+
+&nbsp;
+
+### **More Details**
+
+![alt text](./assets/commands_1.jpg "Commands Sheet 1")
+
+&nbsp;
+
+![alt text](./assets/commands_2.jpg "Commands Sheet 2")
