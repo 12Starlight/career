@@ -1,5 +1,7 @@
 # **Mac Commands**
 
+<kbd>tty</kbd> ~ Location of terminal file in directory. *Everything is a file*.
+
 <kbd>cmd + n</kbd> ~ Opens new terminal
 
 <kbd>cd [directory_name]</kbd> ~ Directory change
