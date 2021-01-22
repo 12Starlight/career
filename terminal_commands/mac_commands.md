@@ -1,5 +1,7 @@
 # **Mac Commands**
 
+<kbd>cmd + n</kbd> ~ Opens new terminal
+
 <kbd>cd [directory_name]</kbd> ~ Directory change
 
 <kbd>ls</kbd> ~ Check the list inside directory
