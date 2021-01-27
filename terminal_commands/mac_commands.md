@@ -6,6 +6,8 @@
 
 <kbd>cmd + w</kbd> ~ Closes terminal window
 
+<kbd>cmd + ,</kbd> ~ Opens preferences for window focused on
+
 <kbd>cd [directory_name]</kbd> ~ Directory change
 
 <kbd>ls</kbd> ~ Check the list inside directory
