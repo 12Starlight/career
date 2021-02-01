@@ -34,6 +34,8 @@
 
 <kbd>cp</kbd> ~ Copy a file
 
+<kbd>ctr + del</kbd> ~ Deletes characters in place
+
 <kbd>rm [file_name]</kbd> ~ Delete a file, to confirm <kbd>rm -l</kbd>
 
 <kdb>rm -R [directory_name]</kdb> ~ Deletes all files and subfolders, to confirm <kbd>rm -iR</kbd>
