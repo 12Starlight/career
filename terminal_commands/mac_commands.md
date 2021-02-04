@@ -83,8 +83,6 @@ Commands are always executed in the current location. So, if you do not specify 
 location in the command, it will run where you last moved to in the diretory or where 
 the last command was ran. 
 
-&nbsp;
-
 'You have new mail' in terminal. Type <kbd>mail</kbd> into terminal. Then type in <kbd>d *</kbd> and press enter. The <kbd>d</kbd> command means delete and the <kbd>`*`</kbd> selects all mails in the list using REGEX. Then press <kbd>q</kbd> to quit. 
 
 &nbsp;
