@@ -56,6 +56,8 @@
 
 <kbd>cmd + shift + g</kbd> ~ Access root directory (/)
 
+<kbd>uname `[-amnprsv]`</kbd> ~ Gives loads information about computer i.e. hardware, operating system, etc.
+
 &nbsp;
 
 ### **Changing default for screenshots directory and file type**
