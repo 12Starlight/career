@@ -113,3 +113,7 @@ the competition. Collaboration is important for two main reasons:</p>
 #### 
 
 * **Collaborating with external stakeholders increases innovation**
+
+&nbsp;
+
+**Plan to continue researching**
