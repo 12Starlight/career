@@ -54,6 +54,10 @@
 
 <kbd>ctr + c</kbd> ~ Interupt a command that is already running
 
+<kbd>cmd + k</kbd> ~ Clears screen
+
+<kbd>ctr + l</kbd> ~ Clears screen
+
 <kbd>cmd + shift + g</kbd> ~ Access root directory (/)
 
 <kbd>uname `[-amnprsv]`</kbd> ~ Gives loads information about computer i.e. hardware, operating system, etc.
