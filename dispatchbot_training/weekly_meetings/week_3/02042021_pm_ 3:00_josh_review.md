@@ -37,18 +37,19 @@ Vim Shorcuts:
 
 > How do I get the app running locally in one systematic process? ✅
 >
->> Answer:
->> <kbd>docker-compose up</kbd> ~ Starts docker
->>
->> <kbd>[docker-compose stop]</kbd> ~ Stops docker and kills all instances
->>
->> <kbd>rake db:migrate</kbd>
->>
->> <kbd>rails s</kbd>
->>
->> <kbd>yarn watch</kbd>
->>
->> Find in the README the section `Admin Panel` ~ Run again when accessing the admin on the back page or after running <kbd>docker-compose stop</kbd>
+> &nbsp; Answer:
+> 
+> &nbsp; <kbd>docker-compose up</kbd> ~ Starts docker
+>
+> &nbsp; <kbd>[docker-compose stop]</kbd> ~ Stops docker and kills all instances
+>
+> &nbsp; <kbd>rake db:migrate</kbd>
+>
+> &nbsp; <kbd>rails s</kbd>
+>
+> &nbsp; <kbd>yarn watch</kbd>
+>
+> &nbsp; Find in the README the section `Admin Panel` ~ Run again when accessing the admin on the back page or after running <kbd>docker-compose stop</kbd>
 
 &nbsp;
 
@@ -58,7 +59,7 @@ Vim Shorcuts:
 
 Resarch `rspec`
 
-Add <kbd>cmd + k</kbd> to terminal commands
+Add <kbd>cmd + k</kbd> to terminal commands ✅
 
 Add <kbd>cmd + shift + f</kbd> to terminal commands
 
