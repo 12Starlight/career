@@ -50,7 +50,7 @@ Vim Shorcuts:
 >
 > &nbsp; &nbsp; &nbsp; &nbsp; <kbd>yarn watch</kbd>
 >
-> &nbsp; &nbsp; &nbsp; &nbsp; Find in the README the section `Admin Panel` ~ Run again when  accessing the admin on the back page or after running <kbd>docker-compose stop</kbd>
+> &nbsp; &nbsp; &nbsp; &nbsp; Find in the README the section `Admin Panel` ~ Run again when  accessing the admin on the <br> back page or after running <kbd>docker-compose stop</kbd>
 
 &nbsp;
 
