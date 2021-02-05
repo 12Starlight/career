@@ -58,10 +58,12 @@ Vim Shorcuts:
 
 **Action Items:**
 
+&nbsp;
+
 Resarch `rspec`
 
 Add <kbd>cmd + k</kbd> to terminal commands ✅
 
-Add <kbd>cmd + shift + f</kbd> to terminal commands ✅
+Add <kbd>cmd + shift + f</kbd> to Rubymine commands ✅
 
 Add /[search_item] to vim_adventures ✅
