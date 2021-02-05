@@ -58,7 +58,19 @@ Vim Shorcuts:
 
 > What is the difference between <kbd>ctr + l</kbd> vs. <kbd>cmd + k</kbd>?
 
+>> Same
+
 > What is @Josh's personal portfolio and what other sites does he want me to visit?
+
+>> josh-wolfe.com, nina-wolfe.com, medium - coming out next month, checkout Twitter 
+
+>> twitter - security related, rails
+
+>> LinkedIn - Harvard Business Review - pay
+
+>> Social related - best of times
+
+>> Wants to start writing to solidify credibility and create in depth stories
 
 &nbsp;
 
