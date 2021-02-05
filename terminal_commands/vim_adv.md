@@ -140,3 +140,6 @@ Note: When a count is given also go [count -1] lines downward.
 ## **Level 7**
 
 Successfully got to level 7 😎🔥
+
+
+<kbd>/ [search_item]</kbd> ~ Searches entire project

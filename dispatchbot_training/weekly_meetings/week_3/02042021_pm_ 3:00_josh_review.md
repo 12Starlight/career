@@ -20,6 +20,7 @@ Focus on what works well
 
 <kbd>cmd + k</kbd> ~ Clears screen
 
+VSCode / Rubymine Shortcuts:
 <kbd>cmd + shift + f</kbd> ~ Search entire project
 
 Vim Shorcuts:
@@ -61,6 +62,6 @@ Resarch `rspec`
 
 Add <kbd>cmd + k</kbd> to terminal commands ✅
 
-Add <kbd>cmd + shift + f</kbd> to terminal commands
+Add <kbd>cmd + shift + f</kbd> to terminal commands ✅
 
-Add /[search_item] to vim_adventures
+Add /[search_item] to vim_adventures ✅
