@@ -20,11 +20,15 @@ Commented out lines 299-301
   * The save part
   * Insert still works
 
+`Note:`
+
+`Important to be able to develop the skills to handle fire meetings, it makes the difference in terms of leveling up`
+
 &nbsp;
 
 **Need:**
 
-app.codeship.com/dispatchbot - Access
+app.codeship.com/dispatchbot - Access - Not needed (DevOps)
 
 &nbsp;
 
