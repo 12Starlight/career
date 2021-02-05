@@ -31,3 +31,5 @@ Smart JSON editor
 **Action Items:**
 
 Prefixing - Look that up
+
+Get smart JSON editor ✅
