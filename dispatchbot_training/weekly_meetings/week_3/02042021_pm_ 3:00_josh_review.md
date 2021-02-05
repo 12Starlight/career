@@ -56,6 +56,8 @@ Vim Shorcuts:
 
 > What is the difference between <kbd>ctr + l</kbd> vs. <kbd>cmd + k</kbd>?
 
+> What is @Josh's personal portfolio and are their other sites he wants me to visit?
+
 **Action Items:**
 
 &nbsp;
