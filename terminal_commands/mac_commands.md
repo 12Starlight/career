@@ -89,6 +89,8 @@ the last command was ran.
 
 'You have new mail' in terminal. Type <kbd>mail</kbd> into terminal. Then type in <kbd>d *</kbd> and press enter. The <kbd>d</kbd> command means delete and the <kbd>`*`</kbd> selects all mails in the list using REGEX. Then press <kbd>q</kbd> to quit. 
 
+To learn more about Apple's `Darwin` operating system click [here](https://en.wikipedia.org/wiki/Darwin_(operating_system)).
+
 &nbsp;
 
 ### **More Details**
