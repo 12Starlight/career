@@ -40,17 +40,18 @@ Vim Shorcuts:
 >
 > &nbsp; Answer:
 > 
-> &nbsp; <kbd>docker-compose up</kbd> ~ Starts docker
+> &nbsp; &nbsp; &nbsp; &nbsp; <kbd>docker-compose up</kbd> ~ Starts docker
 >
-> &nbsp; <kbd>[docker-compose stop]</kbd> ~ Stops docker and kills all instances
+> &nbsp; &nbsp; &nbsp; &nbsp; <kbd>[docker-compose stop]</kbd> ~ Stops docker and kills all instances
 >
-> &nbsp; <kbd>rake db:migrate</kbd>
+> &nbsp; &nbsp; &nbsp; &nbsp; <kbd>rake db:migrate</kbd>
 >
-> &nbsp; <kbd>rails s</kbd>
+> &nbsp; &nbsp; &nbsp; &nbsp; <kbd>rails s</kbd>
 >
-> &nbsp; <kbd>yarn watch</kbd>
+> &nbsp; &nbsp; &nbsp; &nbsp; <kbd>yarn watch</kbd>
 >
-> &nbsp; Find in the README the section `Admin Panel` ~ Run again when accessing the admin on the back page or after running <kbd>docker-compose stop</kbd>
+> &nbsp; &nbsp; &nbsp; &nbsp; Find in the README the section `Admin Panel` ~ Run again when  accessing the admin on the
+> &nbsp; &nbsp; &nbsp; &nbsp; back page or after running <kbd>docker-compose stop</kbd>
 
 &nbsp;
 
