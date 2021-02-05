@@ -51,13 +51,15 @@ Vim Shorcuts:
 > &nbsp; &nbsp; &nbsp; &nbsp; <kbd>yarn watch</kbd>
 >
 > &nbsp; &nbsp; &nbsp; &nbsp; Find in the README the section `Admin Panel` ~ Run again when accessing the admin on the back page or after running 
-> &nbsp; &nbsp; &nbsp; &nbsp; <kbd>docker-compose stop</kbd>
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <kbd>docker-compose stop</kbd>
 
 &nbsp;
 
 > What is the difference between <kbd>ctr + l</kbd> vs. <kbd>cmd + k</kbd>?
 
 > What is @Josh's personal portfolio and what other sites does he want me to visit?
+
+&nbsp;
 
 **Action Items:**
 
