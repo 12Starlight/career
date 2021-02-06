@@ -80,6 +80,6 @@ Checkout: ~ [The Joint](https://www.google.com/maps/place/The+Joint+Chiropractic
 
 **Balance:**
 
-Items Needed: 16
+Items Needed: 17
 
 Items Completed: 0
