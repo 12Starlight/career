@@ -88,7 +88,7 @@ Completely squared up at the moment!
 >
 > *Additional Thoughts:*
 >
-> Following anything social related is going to yield high quality content on code or tech related material bc the best of times is happening right now for social mediat related to tech
+> Following anything social related is going to yield high quality content on code or tech related material bc the best of times is happening right now for social media related to tech
 >
 > Wants to start writing to solidify credibility and create in depth stories
 
