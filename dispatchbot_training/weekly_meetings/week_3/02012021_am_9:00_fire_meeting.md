@@ -8,15 +8,15 @@ Keys from production did not match
 
 **Need:**
 
-AWS - Access 
+[AWS](https://us-west-2.console.aws.amazon.com/cloudwatch/home?region=us-west-2) - Access ✅
 
-Sentry.io - Access
+[Sentry](Sentry.io) - Access
 
-sidekick - Access
+Sidekick - Access
 
-app.codeship.com - Access
+[app.codeship.com](app.codeship.com) - Access
 
-Smart JSON editor
+[Smart JSON editor](https://apps.apple.com/us/app/smart-json-editor/id1268962404?mt=12)
 
 &nbsp;
 
@@ -40,6 +40,6 @@ Smart JSON editor
 
 **Action Items:**
 
-Prefixing - Look that up 
+Prefixing - Look that up 💎
 
 Get smart JSON editor ✅
