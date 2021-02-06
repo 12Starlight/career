@@ -1,6 +1,6 @@
 # **02/04/2021 9:45am <br> <br> Fire Meeting🔥**
 
-**Ideas:**
+## **Ideas:**
 
 @Coop, @Fox, @Lib were on call
 
@@ -26,15 +26,19 @@ Commented out lines 299-301
 
 &nbsp;
 
-**Need:**
+## **Need:**
 
-app.codeship.com/dispatchbot - Access - Not needed (DevOps)
-
-&nbsp;
-
-**Questions:**
-
+[`app.codeship.com/dispatchbot`](app.codeship.com/dispatchbot) - Access - Not needed (DevOps)
 
 &nbsp;
 
-**Action Items:**
+## **Questions:**
+
+No questions at the moment!
+
+
+&nbsp;
+
+## **Action Items:**
+
+No action items!
