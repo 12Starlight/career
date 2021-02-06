@@ -34,8 +34,6 @@ Review: ~ days 02/01/2021-02/03/2021 with @Josh 💎
 
 Sidekick - Access 💎
 
-[app.codeship.com](app.codeship.com) - Access 💎
-
 &nbsp;
 
 **Questions:**
