@@ -18,6 +18,8 @@ Steps to take for a ticket:
   
     ![alt txt](./assets/rspec_example.png)
 
+&nbsp;
+
 Focus on what works well
 
 &nbsp;
