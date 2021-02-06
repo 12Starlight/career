@@ -26,7 +26,7 @@ Focus on what works well
 
 **Need:**
 
-To review 02/01/2021-02/03/2021 with @Josh 💎
+Review: ~ days 02/01/2021-02/03/2021 with @Josh 💎
 
 [Sentry](Sentry.io) - Access 💎
 
