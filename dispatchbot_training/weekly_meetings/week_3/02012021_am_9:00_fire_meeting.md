@@ -14,7 +14,7 @@ Keys from production did not match
 
 Sidekick - Access
 
-[app.codeship.com](app.codeship.com) - Access
+[app.codeship.com](app.codeship.com) - Access - Not needed (DevOps)
 
 [Smart JSON editor](https://apps.apple.com/us/app/smart-json-editor/id1268962404?mt=12)
 
