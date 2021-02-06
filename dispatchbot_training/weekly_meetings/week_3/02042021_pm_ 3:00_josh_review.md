@@ -1,6 +1,6 @@
 # **02/04/2021 3:00pm <br> <br> Josh Review 😎🥇**
 
-**Ideas:**
+## **Ideas:**
 
 Steps to take for a ticket:
   * Understand everything about the ticket
@@ -28,13 +28,13 @@ Vim Shorcuts:
 
 &nbsp;
 
-**Need:**
+## **Need:**
 
-
+Completely squared up at the moment!
 
 &nbsp;
 
-**Questions:**
+## **Questions:**
 
 > How do I get the app running locally in one systematic process? ✅
 >
@@ -56,29 +56,49 @@ Vim Shorcuts:
 
 &nbsp;
 
-> What is the difference between <kbd>ctr + l</kbd> vs. <kbd>cmd + k</kbd>?
-
->> Same
-
-> What is @Josh's personal portfolio and what other sites does he want me to visit?
-
->> josh-wolfe.com, nina-wolfe.com, medium - coming out next month, checkout Twitter 
-
->> twitter - security related, rails
-
->> LinkedIn - Harvard Business Review - pay
-
->> Social related - best of times
-
->> Wants to start writing to solidify credibility and create in depth stories
+> What is the difference between <kbd>ctr + l</kbd> vs. <kbd>cmd + k</kbd>? ✅
+>
+> **`Answer`**: 
+> 
+> &nbsp; &nbsp; &nbsp; &nbsp; The two commands are essentially the same
 
 &nbsp;
 
-**Action Items:**
+> What is @Josh's personal portfolio and what other sites does he want me to visit? ✅
+>
+> **`Answer`**:
+>
+> &nbsp; &nbsp; &nbsp; &nbsp; josh-wolfe.com
+> 
+> &nbsp; &nbsp; &nbsp; &nbsp; nina-wolfe.com 
+> 
+> &nbsp; &nbsp; &nbsp; &nbsp; medium - coming out next month
+> 
+> &nbsp; &nbsp; &nbsp; &nbsp; @Josh's [Twitter](https://twitter.com/_joshwolfe) page
+>
+> &nbsp;
+>
+> *Additional Resources:* 
+> 
+> `Twitter` - security related, rails
+>
+> [`Harvard Business Review`](https://hbr.org/) - worth the money
+>
+> &nbsp;
+>
+> *Additional Thoughts:*
+>
+> Following anything social related is going to yield high quality content on code or tech related material bc the best of times is happening right now for social mediat related to tech
+>
+> Wants to start writing to solidify credibility and create in depth stories
 
 &nbsp;
 
-Resarch `rspec`
+## **Action Items:**
+
+&nbsp;
+
+Resarch `rspec` 💎
 
 Add <kbd>cmd + k</kbd> to terminal commands ✅
 
