@@ -74,7 +74,7 @@ Review: ~ Healthcare options at [BlueCross](https://members.hcsc.net/wps/portal/
 
 Go To: ~ Chiropractor 💎
 
-Checkout: ~ [The Joint](https://www.google.com/maps/place/The+Joint+Chiropractic/@30.282661,-97.793192,12.01z/data=!4m8!1m2!2m1!1sthe+joint+chiropractic!3m4!1s0x0:0x28e3c1a97c2241ac!8m2!3d30.264164!4d-97.7328515) 💎
+Checkout: ~ [The Joint](https://www.google.com/maps/place/The+Joint+Chiropractic/@30.282661,-97.793192,12.01z/data=!4m8!1m2!2m1!1sthe+joint+chiropractic!3m4!1s0x0:0x28e3c1a97c2241ac!8m2!3d30.264164!4d-97.7328515) 💎 
 
 &nbsp;
 
