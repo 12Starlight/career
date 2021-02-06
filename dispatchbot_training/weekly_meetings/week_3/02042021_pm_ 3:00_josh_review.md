@@ -68,9 +68,9 @@ Completely squared up at the moment!
 >
 > **`Answer`**:
 >
-> &nbsp; &nbsp; &nbsp; &nbsp; josh-wolfe.com
+> &nbsp; &nbsp; &nbsp; &nbsp; [Josh Wolfe](josh-wolfe.com)
 > 
-> &nbsp; &nbsp; &nbsp; &nbsp; nina-wolfe.com 
+> &nbsp; &nbsp; &nbsp; &nbsp; [Nina Wolfe](nina-wolfe.com) 
 > 
 > &nbsp; &nbsp; &nbsp; &nbsp; medium - coming out next month
 > 
