@@ -69,3 +69,11 @@ Resarch: ~ `rspec` 💎
 Lookup: ~ `statement of work` and `acceptance criteria` 💎
 
 Lookup: ~ Ingestor 💎
+
+&nbsp;
+
+**Balance:**
+
+Items Needed: 14
+
+Items Completed: 0
