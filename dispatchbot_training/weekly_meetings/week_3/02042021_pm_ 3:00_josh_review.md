@@ -96,8 +96,6 @@ Completely squared up at the moment!
 
 ## **Action Items:**
 
-&nbsp;
-
 Resarch: ~ `rspec` 💎
 
 Lookup: ~ `statement of work` and `acceptance criteria` 💎
