@@ -9,12 +9,24 @@ Discussed importance of handling fire meetings and how doing so effecively sets 
 Went into CloudWatch and created a "[1650]" search parameter using the **`US West (Oregon) us-west-2`** selection option
 
 Discussed Git:?
-  * 
+  * Hightlight `code` selection
+  * Right click and select <kbd>git</kbd>
+  * Select <kbd>History for Selection</kbd>
+
+&nbsp;
 
 **Need:**
 
+Reschedule: ~ Meeting was interupted due to an emergency Fire Meeting 💎
+
+&nbsp;
+
 **Questions:**
+
+No questions at the momemnt!
+
+&nbsp;
 
 **Action Items:**
 
-Lookup: ~ Ingestor
+Lookup: ~ Ingestor 💎
