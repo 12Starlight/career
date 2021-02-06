@@ -70,10 +70,12 @@ Lookup: ~ `statement of work` and `acceptance criteria` 💎
 
 Lookup: ~ Ingestor 💎
 
+Go To: ~ Chiropractor and checkout [The Joint](https://www.google.com/maps/place/The+Joint+Chiropractic/@30.282661,-97.793192,12.01z/data=!4m8!1m2!2m1!1sthe+joint+chiropractic!3m4!1s0x0:0x28e3c1a97c2241ac!8m2!3d30.264164!4d-97.7328515) 💎💎
+
 &nbsp;
 
 **Balance:**
 
-Items Needed: 14
+Items Needed: 16
 
 Items Completed: 0
