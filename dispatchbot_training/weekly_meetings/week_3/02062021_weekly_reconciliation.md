@@ -70,7 +70,11 @@ Lookup: ~ `statement of work` and `acceptance criteria` 💎
 
 Lookup: ~ Ingestor 💎
 
-Go To: ~ Chiropractor and checkout [The Joint](https://www.google.com/maps/place/The+Joint+Chiropractic/@30.282661,-97.793192,12.01z/data=!4m8!1m2!2m1!1sthe+joint+chiropractic!3m4!1s0x0:0x28e3c1a97c2241ac!8m2!3d30.264164!4d-97.7328515) 💎💎
+Review: ~ Healthcare options at [BlueCross](https://members.hcsc.net/wps/portal/bam/!ut/p/a1/hY-7DoJAEEW_xYJSZuQl2kFEBbQyUdjG7JIVSIAlsBr5e1caG9TpZnLP5FwgkABp6KPMqSxFQ6v3TpxrdIrNRRxZ6PoBYmhsLAz8LSIaKpCqAH4ZD__xFyBj5MeHCEheCTbapF7DTDcH0vEb73in3zt1LqRs-7WGGhacVrLoecUzqbOM9fKpZ6LWcIotRC8VPI1AqpotP-q7_VmpH-1VaDkHAy0b2jrBOWGDOXizFztXXWM!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_JSK31KJ40GHV00IM59I46L2045/act/id=0/p=execution=e1s1/473735894603/=/#Z7_JSK31KJ40GHV00IM59I46L2045) and find coverage, then search chiropractors 💎
+
+Go To: ~ Chiropractor 💎
+
+Checkout: ~ [The Joint](https://www.google.com/maps/place/The+Joint+Chiropractic/@30.282661,-97.793192,12.01z/data=!4m8!1m2!2m1!1sthe+joint+chiropractic!3m4!1s0x0:0x28e3c1a97c2241ac!8m2!3d30.264164!4d-97.7328515) 💎
 
 &nbsp;
 
