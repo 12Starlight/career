@@ -98,7 +98,9 @@ Completely squared up at the moment!
 
 &nbsp;
 
-Resarch `rspec` 💎
+Resarch: ~ `rspec` 💎
+
+Lookup: ~ `statement of work` and `acceptance criteria` 💎
 
 Add <kbd>cmd + k</kbd> to terminal commands ✅
 
