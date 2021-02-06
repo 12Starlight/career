@@ -6,7 +6,9 @@ Possibly que up meetings at the end of the day to be more efficient
 
 `Important to be able to develop the skills to handle fire meetings, it makes the difference in terms of leveling up`
 
-Steps to take for a ticket:
+&nbsp;
+
+*Steps for a ticket:*
   * Understand everything about the ticket
   * Make sure `Acceptable Criteria` is well defined
   * Reproduce the issue
