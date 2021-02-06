@@ -17,7 +17,7 @@ Discussed Git:?
 
 **Need:**
 
-Reschedule: ~ Meeting was interupted due to an emergency Fire Meeting 💎
+Reschedule: ~ Meeting was interrupted due to an emergency Fire Meeting 💎
 
 &nbsp;
 
