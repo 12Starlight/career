@@ -1,32 +1,36 @@
 # **02/01/2021 9:00am <br> <br> Fire Meeting🔥**
 
-**Ideas:**
+## **Ideas:**
 
 Keys from production did not match
 
 &nbsp;
 
-**Need:**
+## **Need:**
 
 [AWS](https://us-west-2.console.aws.amazon.com/cloudwatch/home?region=us-west-2) - Access ✅
 
-[Sentry](Sentry.io) - Access
+[Sentry](Sentry.io) - Access - Josh does not even have access 
 
-Sidekick - Access
+Sidekick - Access - Not needed (DevOps) ✅
 
-[app.codeship.com](app.codeship.com) - Access - Not needed (DevOps)
+[app.codeship.com](app.codeship.com) - Access - Not needed (DevOps) ✅
 
-[Smart JSON editor](https://apps.apple.com/us/app/smart-json-editor/id1268962404?mt=12)
-
-&nbsp;
-
-**Questions:**
-
-> Why could we not find `/app` and how was that related to the mobile app?
+[Smart JSON editor](https://apps.apple.com/us/app/smart-json-editor/id1268962404?mt=12) ✅
 
 &nbsp;
 
-> When @Shane kept referring to 'full pull' what did this mean?
+## **Questions:**
+
+> Why could we not find `/app` and how was that related to the mobile app? (moot point) ✅
+
+&nbsp;
+
+> When @Shane kept referring to 'full pull' what did this mean? ✅
+>
+> **`Answer`**: 
+>
+> This was referring to the difference between a full pull which pulls all the data at once from the borker vs. a partial pull which updates already existing data.
 
 &nbsp;
 
@@ -38,7 +42,7 @@ Sidekick - Access
 
 &nbsp;
 
-**Action Items:**
+## **Action Items:**
 
 Prefixing - Look that up 💎
 
