@@ -1,6 +1,6 @@
 # **02/05/2021 2:30pm <br> <br> Fire Meeting🔥**
 
-**Ideas:**
+## **Ideas:**
 
 @Fox and @Chad - joined
   * apt time and pickup time was major concern
@@ -22,13 +22,13 @@
 
 &nbsp;
 
-**Need:**
+## **Need:**
 
 All set at the moment!
 
 &nbsp;
 
-**Questions:**
+## **Questions:**
 
 > Why did the previous programmmers only set a priority flag for one or the other and not set the default to update the pickup and dropoff keys according to the data we called from the API? ✅
 >
@@ -38,6 +38,6 @@ All set at the moment!
 
 &nbsp;
 
-**Action Items:**
+## **Action Items:**
 
 No actions item needed!
