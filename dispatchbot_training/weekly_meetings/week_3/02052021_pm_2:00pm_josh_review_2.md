@@ -1,6 +1,6 @@
 # **02/05/2021 2:00pm <br> <br> Josh Review 😎🥇**
 
-**Ideas:**
+## **Ideas:**
 
 Reviewed questions for weekly meetings (02/04/2021 - 02/04/2021)
 
@@ -15,9 +15,9 @@ Discussed Git:?
 
 &nbsp;
 
-**Need:**
+## **Need:**
 
-Reschedule: ~ Meeting was interrupted due to an emergency Fire Meeting 💎
+Reschedule: ~ Meeting was interrupted due to an emergency Fire Meeting ✅
 
 &nbsp;
 
@@ -27,8 +27,8 @@ No questions at the momemnt!
 
 &nbsp;
 
-**Action Items:**
+## **Action Items:**
 
 Lookup: ~ Ingestor 💎
 
-Review: ~ Days 02/01/2021 - 02/03/2021 💎
+Review: ~ Days 02/01/2021 - 02/03/2021 ✅
