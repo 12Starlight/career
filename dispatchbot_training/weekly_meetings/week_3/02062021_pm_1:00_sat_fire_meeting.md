@@ -14,9 +14,17 @@ Before doing pickles, response needs to be removed along with something else
 
 @Josh - Created helper function that shows brokers that have pickup as a priority
 
+![alt text](./assets/josh.png "Josh's Helper Function")
+
+&nbsp;
+
 @Josh - Tagged @Amanda for ticket `3434`
 
 @Amanda - Concerned that the problem was an 'iceberg` and that we should revert back to an older version of the code
+
+![alt text](./assets/revert.png "Josh Checking Discrepencies")
+
+&nbsp;
 
 @Josh - brought up timezones
   * Line 326 does map the timezones in <kbd>logisticare.rb</kbd>
@@ -34,6 +42,10 @@ Before doing pickles, response needs to be removed along with something else
   * Trips that were not seeded only need to be fixed?
   * Seeded: ~ Scheduled vs. unscheduled
   * Name Key: ~ Manual import shows middle initital
+
+![alt text](./assets/admin.png "Amanda and Fox looking at Admin")
+
+![alt text](./assets/admin_1.png "Amanda's Notes On the Topic")
 
 Priority dropoff working
 
@@ -54,6 +66,12 @@ Nothing needed now!
 No major questions at the moment!
 
 &nbsp;
+
+## **Team Action Items:**
+
+![alt text](./assets/amanda_steps.png "Action Items")
+
+![alt text](./assets/josh_steps.png)
 
 ## **Action Items:**
 
