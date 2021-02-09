@@ -42,7 +42,7 @@ Sidekick - Access - Not needed (DevOps) ✅
 >
 > **`Answer`**: 
 >
-> 10 
+> &nbsp; &nbsp; &nbsp; &nbsp; 10 
 
 &nbsp;
 
@@ -50,15 +50,17 @@ Sidekick - Access - Not needed (DevOps) ✅
 >
 > **`Answer`**:
 >
-> No such recommendation at this time
+> &nbsp; &nbsp; &nbsp; &nbsp; No such recommendation at this time
 
 &nbsp;
 
 > What did I do well that I should keep doing? ✅
 >
 > **`Answer`**:
+> 
+> &nbsp; &nbsp; &nbsp; &nbsp; Continue to remain flexible, studying [Rails](https://guides.rubyonrails.org/ "Rails Guides"), and keep trying to plug away at your ticket or 
 >
-> Continue to remain flexible, studying [Rails](https://guides.rubyonrails.org/ "Rails Guides"), and keep trying to plug away at your ticket or signature ticket that is a pair with @Chad
+> &nbsp; &nbsp; &nbsp; &nbsp; signature ticket that is a pair with @Chad
 
 &nbsp;
 
