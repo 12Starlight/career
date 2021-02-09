@@ -156,3 +156,53 @@ A text file named <kbd>.gitignore</kbd> suppresses accidential versioning of fil
 
 Lists all ignored files in the project
 
+&nbsp;
+
+&nbsp;
+
+## **SAVE FRAGMENTS**
+Shelve and restore incomplete changes
+
+&nbsp;
+
+**`$ git stash`**
+
+Temporarily stores all modified tracked files
+
+**`$ git stash pop`**
+
+Restores the most recently stashed files
+
+**`$ git stash list`**
+
+Lists all stashed changesets
+
+**`$ git stash drop`**
+
+Discards the most recently stashed changeset
+
+&nbsp;
+
+&nbsp;
+
+## **REVIEW HISTORY**
+Browse and inspect the evolution of project files
+
+&nbsp;
+
+**`$ git log`**
+
+Lists version history for the current branch
+
+**`$ git log --follow [file]`**
+
+Lists version history for a file, including renames
+
+**`$ git diff [first branch]...[second branch]`**
+
+Shows content differences between two branches
+
+**`$ git show [commit]`**
+
+Outputs metadata and content changes of the specified commit
+
