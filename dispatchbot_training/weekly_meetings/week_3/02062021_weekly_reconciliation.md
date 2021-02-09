@@ -98,9 +98,9 @@ Lookup: ~ `revert` in Git 💎
 
 **Balance:** 
 
-Items Needed: 12
+Items Needed: 11
 
-Items Completed: 9
+Items Completed: 10
 
   * Waiting: 1
   * Bonus: 3
