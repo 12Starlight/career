@@ -38,15 +38,27 @@ Sidekick - Access - Not needed (DevOps) ✅
 
 **Questions:**
 
-> In terms of meeting expectations, 10 being the highest, where would you rate me this week?
+> In terms of meeting expectations, 10 being the highest, where would you rate me this week? ✅
+>
+> **`Answer`**: 
+>
+> 10 
 
 &nbsp;
 
-> What would you recommend that I change to be better?
+> What would you recommend that I change to be better? ✅
+>
+> **`Answer`**:
+>
+> No such recommendation at this time
 
 &nbsp;
 
-> What did I do well that I should keep doing?
+> What did I do well that I should keep doing? ✅
+>
+> **`Answer`**:
+>
+> Continue to remain flexible, studying [Rails](https://guides.rubyonrails.org/ "Rails Guides"), and keep trying to plug away at your ticket or signature ticket that is a pair with @Chad
 
 &nbsp;
 
@@ -86,7 +98,7 @@ Lookup: ~ `revert` in Git 💎
 
 Items Needed: 12
 
-Items Completed: 6
+Items Completed: 9
 
   * Waiting: 1
-
+  * Bonus: 3
