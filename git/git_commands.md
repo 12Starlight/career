@@ -206,3 +206,48 @@ Shows content differences between two branches
 
 Outputs metadata and content changes of the specified commit
 
+&nbsp;
+
+&nbsp;
+
+## **REDO COMMITS**
+Erase mistakes and craf replacement history
+
+&nbsp;
+
+**`$ git reset [commit]`**
+
+Undoes all commits after `[commit]`, preserving changes locally
+
+**`$ git reset --hard [commit]`**
+
+Discards all history and changes back to the specified commit
+
+&nbsp;
+
+&nbsp;
+
+## **SYNCHRONIZE CHANGES**
+Register a repository bookmark and exchange version history
+
+&nbsp;
+
+**`$ git fetch [bookmark]`**
+
+Downloads all history from the repository bookmark
+
+**`$ git merge [bookmark]/[branch]`**
+
+**`$ git push [alias] [branch]`**
+
+Uploads all local branch commits to GitHub
+
+**`$ git pull`**
+
+Downloads bookmark history and incorporates changes
+
+
+
+
+
+
