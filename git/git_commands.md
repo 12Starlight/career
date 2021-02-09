@@ -112,6 +112,47 @@ Switches to the specified branch and updates the working directory
 
 Combines the specified branch's history into the current branch
 
-**`$ git branch -d [branch name`**
+**`$ git branch -d [branch name]`**
 
 Deletes the specified branch
+
+&nbsp;
+
+&nbsp;
+
+## **REFACTOR FILENAMES**
+Relocate aand remove versioned files
+
+&nbsp;
+
+**`$ git rm [file]`**
+
+Deletes the file from the working directory and stages the deletion
+
+**`$ git rm --cached [file]`**
+
+Removes the file from version control, but preserves the file locally
+
+**`$ git mv [file-original] [file-renamed]`**
+
+Changed the file name and prepares it for commit
+
+&nbsp;
+
+&nbsp;
+
+## **SUPPRESS TRACKING**
+Exclude temporary files and paths
+
+&nbsp;
+
+**`*.log`** <br>
+**`build/`** <br>
+**`temp-*`**
+
+A text file named <kbd>.gitignore</kbd> suppresses accidential versioning of files and paths matching the specfified patterns
+
+**`$ git ls-files --other --ignored --exclude-standard`**
+
+Lists all ignored files in the project
+
