@@ -1,6 +1,6 @@
 # **Git Commands**
 
-## **INSTALL GIT$**
+## **INSTALL GIT**
 
 GitHub provides desktop clients that include a graphical user interface for the most common repository actions and an automatically updating command line edition of Git for advanced scenarios.
 
@@ -86,3 +86,32 @@ Unstages the file, but preserves its contents
 **`$ git commit -m "[decriptive message]"`**
 
 Records file snapshots permanently in version history
+
+&nbsp;
+
+&nbsp;
+
+## **GROUP CHANGES**
+Name a series of commits and combine completed efforts
+
+&nbsp;
+
+**`$ git branch`**
+
+Lists all local branches in the current repository
+
+**`$ git branch [branch name]`**
+
+Creates a new branch
+
+**`$ git checkout [branch name]`**
+
+Switches to the specified branch and updates the working directory
+
+**`$ git merge [branch]`**
+
+Combines the specified branch's history into the current branch
+
+**`$ git branch -d [branch name`**
+
+Deletes the specified branch
