@@ -74,7 +74,7 @@ Get ergonomic office items: (creating budget) ✅
   * Mac Docking Station 💎
   * Backup battery 💎
 
-Check Out: ~ Check out `Schizophrenic` 💎
+Check Out: ~ Check out `Schizophrenic` ✅
 
 Lookup: ~ AWS pems and RSA 💎
 
