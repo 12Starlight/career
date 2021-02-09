@@ -4,7 +4,7 @@
 
 ## **Git Basics**
 
-[![alt txt](./assets/basics.jpg "Git Basics")](https://www.youtube.com/watch?v=_OZVJpLHUaI&feature=youtu.be)
+[![alt txt](./assets/basics.jpg "Git Basics")](https://www.youtube.com/watch?v=_OZVJpLHUaI&feature=youtu.be){:target="_blank"}
 
 &nbsp;
 
