@@ -18,10 +18,18 @@ Git was created by [`Linus Torvalds`](https://en.wikipedia.org/wiki/Linus_Torval
 
 [![alt text](./assets/merge_rebase.png "Merge vs Rebase")](https://youtu.be/CRlGDDprdOQ)
 
-## 
+&nbsp;
 
 ## **Git Rebase**
 
+`git rebase`'s task is to forward-port a series of changes a developer has in their private repository, created against version X of some upstream branch, to version Y of that same branch (Y > X). This effectively *changes the base* of that series of commits, hence "rebasing".
+
+(It also allows the developer to transplant a series of commits onto any arbitrary commit, but this is a less obvious use.)
+
+&nbsp;
+
 ## **Git Cherry Pick**
+
+&nbsp;
 
 ## **Git Merge**
