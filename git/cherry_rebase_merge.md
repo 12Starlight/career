@@ -1,4 +1,4 @@
-# **Git Rebase vs. Merge**
+# **`Git` Rebase, Cherry Pick and Merge**
 
 &nbsp;
 
@@ -8,6 +8,8 @@
 
 &nbsp;
 
-## **Git Merge**
-
 ## **Git Rebase**
+
+## **Git Cherry Pick**
+
+## **Git Merge**
