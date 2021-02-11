@@ -8,6 +8,12 @@
 
 &nbsp;
 
+## **Git Merge vs Rebase (&nbsp; <kbd>cmd + click</kbd> &nbsp; to open in a new tab)** )
+
+[![alt text](./assets/merge_rebase.png "Merge vs Rebase")](https://youtu.be/CRlGDDprdOQ)
+
+## 
+
 ## **Git Rebase**
 
 ## **Git Cherry Pick**
