@@ -50,8 +50,6 @@ To go into this further we use an example:
 
 [The Book](https://git-scm.com/book/en/v2) states:
 
-&nbsp;
-
 > <p>However, there is another way: you can take the patch of the change that was introduced in C3 and reapply it on top of C4. In Git, this is called rebasing. With the rebase command, you can take all the changes that were committed on one branch and apply them onto another one.</p>
 >
 > <p>In this example, you would run the following:</p>
