@@ -37,3 +37,14 @@ Since its first appearance, `git cherry-pick` has been able to pick several comm
 &nbsp;
 
 ## **Difference**
+
+Hence, possibly the most striking difference between these two commands are how they treat the branch they work on: `git cherry-pick` usually brings a commit *from somewhere else* and applies it on top of your current branch, recording a *new* commit, while `git rebase` takes your current branch and *rewrites* a series of *its own* final commits in one way or another. 
+
+To go into this further we use an example:
+
+&nbsp;
+
+![alt text](./assets/example_1.png "Rebase Example")
+
+&nbsp;
+
