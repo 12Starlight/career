@@ -44,6 +44,8 @@ Hence, possibly the most striking difference between these two commands are how 
 
 To go into this further we use an example:
 
+&nbsp;
+
 ![alt text](./assets/example_1.png "Rebase Example")
 
 &nbsp;
