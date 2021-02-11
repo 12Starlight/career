@@ -30,6 +30,10 @@ Git was created by [`Linus Torvalds`](https://en.wikipedia.org/wiki/Linus_Torval
 
 ## **Git Cherry Pick**
 
+`git cherry-pick` is for bringing an interesting commit from one line of development to another. A classic example is backporting a security fix made of an unstable development branch to a stable (maintenance) branch, where a `merge` makes no sense, as it would bring a whole lot of unwanted changes.
+
+Since its first appearance, `git cherry-pick` has been able to pick several commits at once, one-by-one.
+
 &nbsp;
 
-## **Git Merge**
+## **Difference**
