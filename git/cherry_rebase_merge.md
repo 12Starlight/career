@@ -60,3 +60,11 @@ To go into this further we use an example:
 >     $ git rebase master
 >     First, rewinding head to replay your work on top of it...
 >     Applying: added staged command
+
+&nbsp;
+
+"The catch" here is that in this example, the "experiment" branch (the subject for rebasing) was originally forked off the "master" branch, and hence it *shares* commits C0 through C2 with it - effectively, "experiment" is "master" up to, and including, C2 plus commit C3 on top of it. (This is the simplest possible case; of course, "experiment" could contain several dozens of commits on top of its original base.)
+
+Now `git rebase` is told to rebase "experiment" onto the *current* tip of "master", and `git rebase` goes like this:
+
+&nbsp; &nbsp; **1.**<p>Runs `git merge-base` to see</p>
