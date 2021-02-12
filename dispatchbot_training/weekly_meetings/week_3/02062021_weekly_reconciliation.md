@@ -92,15 +92,15 @@ Checkout: ~ [The Joint](https://www.google.com/maps/place/The+Joint+Chiropractic
 
 Lookup: ~ pickles 💎
 
-Lookup: ~ `revert` in Git 💎
+Lookup: ~ `revert` in Git ✅
 
 &nbsp;
 
 **Balance:** 
 
-Items Needed: 11
+Items Needed: 10
 
-Items Completed: 10
+Items Completed: 15
 
   * Waiting: 1
   * Bonus: 3
