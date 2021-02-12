@@ -30,7 +30,7 @@ Pair with @Chad on tickets `3392` and `3404`
 
 Review and document notes for the week
 
-Dive deeper 👨‍🚀 into **`Advanced Git Workflows`**
+Dive deeper 👨‍🚀 &nbsp; into **`Advanced Git Workflows`**
 
 &nbsp;
 
