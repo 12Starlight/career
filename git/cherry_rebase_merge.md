@@ -73,6 +73,6 @@ Now `git rebase` is told to rebase "experiment" onto the *current* tip of "maste
 
 3. Rewinds the HEAD (which points to the tip commit of "experiment" before the operation starts to run) to point to the tip of "master" - we are rebasing onto it.
 
-4. Tries to apply each of the saved commitss (as if with `git apply`) in order. In our toy example it is just one commit, C3. Let us say its application will produce a commit C3.
+4. Tries to apply each of the saved commits (as if with `git apply`) in order. In our toy example it is just one commit, C3. Let us say its application will produce a commit C3.
 
 5. If all went well, the "experiment" reference is updated to point to the commit which resulted from applying the last saved commit (C3 in our case).
