@@ -28,6 +28,10 @@ Talked about namespacing and how important it is to know as a dev and uses examp
 
 &nbsp;
 
+The support ticket process is going to be laid out in a systamatic way which will be clearly defined going forward
+
+&nbsp;
+
 ## **Need:**
 
 Nothing needed!
