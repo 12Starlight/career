@@ -46,7 +46,7 @@ Pairing with @Chad and getting to see the set up process for the dispatch-worker
 
 ## **Lowlights**
 
-Iceberg, I felt like yesterday lol 
+Iceberg 🥶, I felt like yesterday lol 
 
 Karate getting canceld for my sweetie 🥰 @Annette 🥋
 
