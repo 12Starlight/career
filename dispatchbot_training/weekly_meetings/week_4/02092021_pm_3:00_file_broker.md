@@ -1,7 +1,7 @@
 # **02/09/2021 3:00pm <br> <br> File Broker 🧐**
 
 
-**Ideas**
+## **Ideas:**
 
 `@Clay` @Shane @Josh @Addison
 
@@ -24,18 +24,18 @@ Importing trips manually
 
 &nbsp;
 
-**Need**
+## **Need:**
 
 Nothing needed!
 
 &nbsp;
 
-**Questions**
+## **Questions:**
 
 No questions!
 
 &nbsp;
 
-**Action Items:** 
+## **Action Items:** 
 
 Nothing to do! 
