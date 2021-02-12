@@ -12,6 +12,12 @@ Importing trips manually
 @Josh - Create a support ticket, put in info about the broker, talk with @Fox about the priority of the ticket
   * Time to complete ticket would be about 2-5 full working days
 
+&nbsp;
+
+![alt text](./assets/support.png "Josh demonstraing new format to make support ticket")
+
+&nbsp;
+
 @Shane - Talks about standardizing 
 
 @Josh - DispatchBot not ready yet
