@@ -13,3 +13,21 @@ The `git revert` command is used for undoing changes to a repository's commit hi
 &nbsp;
 
 ## **Resetting vs. reverting**
+
+It is important to understand that `git revert` undoes a single commit - it does not "revert" back to the previous state of a project by removing all subsequent commits. In Git, this actually called a `reset`, not a `revert`.
+
+&nbsp;
+
+![alt text](assets/revert.png "Revert vs. Reset")
+
+&nbsp;
+
+Reverting has two important advantages over resetting. First, it does not change the project history, which makes it a "safe" operation for commits that have already been published to a shared repository.
+
+Second, `git revert` is able to target an individual commit at an arbitrary point in the history, whereas `git reset` can only work backward from the current commit. For example, if you wanted to undo an old commit with `git reset`, you would have to remove all of the commits that occured after the target commit, remove it, then re-commit all of the subsequent commits. Needless to say, this is not an elegant undo solution. 
+
+&nbsp;
+
+## **Summary**
+
+The `git revert` command is a forward-moving undo operation that offers a safe method of undoing changes. Instead of deleting or orphaning commits in the commit history, a revert will create a new commit that inverses the changes specified. `Git revert` is a safer alternative to `git reset` in regards to losing work.
