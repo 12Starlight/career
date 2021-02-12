@@ -96,11 +96,19 @@ Lookup: ~ `revert` in Git ✅
 
 &nbsp;
 
+**Awesome Gems:** 🌹
+
+Found really great [Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) tutorial 
+
+&nbsp;
+
 **Balance:** 
 
 Items Needed: 10
 
-Items Completed: 15
+  * Waiting: 4
+
+Items Completed: 16
 
   * Waiting: 1
-  * Bonus: 3
+  * Bonus: 4
