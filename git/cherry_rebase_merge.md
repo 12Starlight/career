@@ -88,3 +88,43 @@ As you can see, here *technically* `git rebase` indeed transplants a series of c
 &nbsp;
 
 Again, technically you can tell that `git rebase` here incorporated certain commits from "master", and this is absolutely correct.
+
+&nbsp;
+
+With cherry-pick, the original commits/branch sticks around and new commits are created. With rebase, the whole branch ismoved with the branch pointing to the replayed commits.
+
+&nbsp;
+
+Let us say you started with:
+
+
+                A --- B --- C topic 
+               /
+        D --- E --- F --- G master
+
+#### **Rebase:**
+
+        $ git rebase master topic
+    
+You get:
+
+
+                            A' --- B' --- C' topic
+                           / 
+        D --- E --- F --- G master
+
+#### **Cherry-pick:**
+
+        $ git checkout master -b topic_new
+        $ git cherry-pick A^..C
+
+You get:
+
+
+                A --- B --- C topic
+               /
+        D --- E --- F --- G master
+                           \
+                            A' --- B' --- C' topic_new
+
+                            
