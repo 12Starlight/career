@@ -7,7 +7,11 @@ Wants to limit my scope
   * Understand and work with features
   * Become familiar with code
 
+&nbsp;
+
 Answered all questions throughout the week ✅
+
+&nbsp;
 
 Josh's Process: (When Answering Code Problems)
   * Who
@@ -16,12 +20,11 @@ Josh's Process: (When Answering Code Problems)
   * When
   * Why
 
+&nbsp;
+
 Talked about namespacing and how important it is to know as a dev and uses example of:
   * Folder sturctures in computer directories and how they are a `tree`
   * HTML 
-
-&nbsp;
-
 
 &nbsp;
 
