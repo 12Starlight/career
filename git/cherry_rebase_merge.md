@@ -76,3 +76,15 @@ Now `git rebase` is told to rebase "experiment" onto the *current* tip of "maste
 4. Tries to apply each of the saved commits (as if with `git apply`) in order. In our toy example it is just one commit, C3. Let us say its application will produce a commit C3.
 
 5. If all went well, the "experiment" reference is updated to point to the commit which resulted from applying the last saved commit (C3 in our case).
+
+&nbsp;
+
+As you can see, here *technically* `git rebase` indeed transplants a series of commits from "experiment" to the tip of "master", so you can rightfully tell there indeed is "another branch" in the process. But the gist is that the tip commit from "experiment" ended up being the new tip commit in "experiment", it just changed it's base:
+
+&nbsp;
+
+![alt text](./assets/example_2.png "Rebase Example Completed")
+
+&nbsp;
+
+Again, technically you can tell that `git rebase` here incorporated certain commits from "master", and this is absolutely correct.
