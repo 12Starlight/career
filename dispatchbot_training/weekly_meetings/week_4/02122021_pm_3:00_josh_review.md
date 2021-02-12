@@ -2,6 +2,11 @@
 
 ## **Ideas:**
 
+Wants to limit my scope
+  * Reproduce bugs
+  * Understand and work with features
+  * Become familiar with code
+
 
 &nbsp;
 
