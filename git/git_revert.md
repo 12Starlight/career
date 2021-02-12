@@ -6,4 +6,10 @@ Reverting should be used when you want to apply the inverse of a commit from you
 
 &nbsp;
 
+## **How it works**
+
+The `git revert` command is used for undoing changes to a repository's commit history. Other 'undo' commands like, `git checkout` and `git reset`, move the HEAD and branch ref pointers to a specified commit. `Git revert` also takes a specified commit, however, `git revert` does not move ref pointers to this commit. A revert operation will take the specified commit, inverse the changes from that commit, and create a new "revert commit". The ref pointers are then pdated to a point at the new revert commit making it the tip of the branch.
+
+&nbsp;
+
 ## **Resetting vs. reverting**
