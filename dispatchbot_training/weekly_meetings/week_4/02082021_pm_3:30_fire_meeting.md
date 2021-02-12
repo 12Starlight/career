@@ -1,6 +1,6 @@
 # **02/08/2021 3:30pm <br> <br> Fire Meeting🔥**
 
-**Ideas**
+## **Ideas:**
 
 @Fox - Fixed autoschedule, but then we found the bug for the priority
   * Problem is that autoschedule got rid of the priority
@@ -89,18 +89,18 @@ Connecting to Logisticare is what triggered the autoschedule
 
 &nbsp;
 
-**Need**
+## **Need:**
 
 Nothing at this time!
 
 &nbsp;
 
-**Questions**
+## **Questions:**
 
 No questions at the moment!
 
 &nbsp;
 
-**Action Items:** 
+## **Action Items:** 
 
 Nothing needed to do at the moment!
