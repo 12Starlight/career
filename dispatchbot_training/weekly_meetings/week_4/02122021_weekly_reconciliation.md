@@ -81,7 +81,7 @@ Lookup: ~ Ingestor 💎
 
 Lookup: ~ pickles 💎
 
-Lookup: ~ Namespacing 💎
+Lookup: ~ Namespacing (orgainizing code in a tree like structure) ✅
 
 
 &nbsp;
@@ -93,9 +93,9 @@ Lookup: ~ Namespacing 💎
 
 ## **Balance:** 
 
-Items Needed: 4 
+Items Needed: 3 
 
-Items Completed: 9/9
+Items Completed: 10/9
 
   * Waiting: 5
   * Bonus: 3
