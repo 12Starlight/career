@@ -2,6 +2,9 @@
 
 ## **Ideas:**
 
+Start creating descriptions even for the simplest commits
+
+&nbsp;
 
         Talked about namespacing and how important it is to know as a dev and 
         uses example of:
