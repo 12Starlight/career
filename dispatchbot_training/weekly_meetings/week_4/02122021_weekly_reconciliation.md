@@ -103,7 +103,7 @@ Lookup: ~ Namespacing (orgainizing code in a tree like structure) ✅
 
 Items Needed: 0 
 
-Items Completed: 13/9
+Items Completed: 13/10
 
   * Waiting: 5
   * Bonus: 3
