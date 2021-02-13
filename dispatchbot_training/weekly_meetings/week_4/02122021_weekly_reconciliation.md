@@ -69,7 +69,7 @@ Start creating descriptions even for the simplest commits
 
 &nbsp;
 
-> Can you explain pickling and how we will be using it with [Cucumber](http://railscasts.com/episodes/186-pickle-with-cucumber?autoplay=true) instead of byebug?
+> Can you explain pickling and how we will be using it with [Cucumber](http://railscasts.com/episodes/186-pickle-with-cucumber?autoplay=true) instead of byebug, better_errors, or binding_of_caller?
 
 &nbsp;
 
