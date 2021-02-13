@@ -67,6 +67,8 @@ Start creating descriptions even for the simplest commits
 
 > Can you walk through how our [ingester](https://whatis.techtarget.com/definition/data-ingestion) is importing data and using that in our database?
 
+&nbsp;
+
 > Can you explain pickling and how we will be using it with [Cucumber](http://railscasts.com/episodes/186-pickle-with-cucumber?autoplay=true) instead of byebug?
 
 &nbsp;
