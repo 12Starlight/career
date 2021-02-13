@@ -65,6 +65,12 @@ Start creating descriptions even for the simplest commits
 
 &nbsp;
 
+> Can you walk through how our [ingester](https://whatis.techtarget.com/definition/data-ingestion) is importing data and using that in our database?
+
+> Can you explain pickling and how we will be using it with [Cucumber](http://railscasts.com/episodes/186-pickle-with-cucumber?autoplay=true) instead of byebug?
+
+&nbsp;
+
 ## **Action Items:**
 
 Get ergonomic office items: (created budget) 
@@ -77,9 +83,9 @@ Lookup: ~ AWS pems and RSA ✅
 
 Lookup: ~ `statement of work` and `acceptance criteria` ✅
 
-Lookup: ~ Ingestor 💎
+Lookup: ~ Ingestor (generated informed question) ✅
 
-Lookup: ~ pickles 💎
+Lookup: ~ pickles (generated informed question) ✅
 
 Lookup: ~ Namespacing (orgainizing code in a tree like structure) ✅
 
@@ -93,9 +99,9 @@ Lookup: ~ Namespacing (orgainizing code in a tree like structure) ✅
 
 ## **Balance:** 
 
-Items Needed: 2 
+Items Needed: 0 
 
-Items Completed: 11/9
+Items Completed: 13/9
 
   * Waiting: 5
   * Bonus: 3
