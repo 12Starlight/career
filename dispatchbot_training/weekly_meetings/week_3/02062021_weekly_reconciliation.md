@@ -1,6 +1,6 @@
 # **Weekly Reconciliation 🎩 💵**
 
-**Ideas:**
+## **Ideas:**
 
 Possibly que up meetings at the end of the day to be more efficient
 
@@ -26,7 +26,7 @@ Focus on what works well
 
 &nbsp;
 
-**Need:**
+## **Need:**
 
 Review: ~ days 02/01/2021-02/03/2021 with @Josh ✅
 
@@ -36,13 +36,13 @@ Sidekick - Access - Not needed (DevOps) ✅
 
 &nbsp;
 
-**Questions:**
+## **Questions:**
 
 > In terms of meeting expectations, 10 being the highest, where would you rate me this week? ✅
 >
 > **`Answer`**: 
 >
-> &nbsp; &nbsp; &nbsp; &nbsp; 10 
+>         10 
 
 &nbsp;
 
@@ -50,7 +50,7 @@ Sidekick - Access - Not needed (DevOps) ✅
 >
 > **`Answer`**:
 >
-> &nbsp; &nbsp; &nbsp; &nbsp; No such recommendation at this time
+>         No such recommendation at this time
 
 &nbsp;
 
@@ -58,27 +58,28 @@ Sidekick - Access - Not needed (DevOps) ✅
 >
 > **`Answer`**:
 > 
-> &nbsp; &nbsp; &nbsp; &nbsp; Continue to remain flexible, studying [Rails](https://guides.rubyonrails.org/ "Rails Guides"), and keep trying to plug away at your ticket or 
+> &nbsp; &nbsp; &nbsp; &nbsp; Continue to remain flexible, studying 
+> [Rails](https://guides.rubyonrails.org/ "Rails Guides"), and keep trying to 
 >
-> &nbsp; &nbsp; &nbsp; &nbsp; signature ticket that is a pair with @Chad
+> &nbsp; &nbsp; &nbsp; &nbsp; plug away at your ticket or signature ticket that is a pair with @Chad
 
 &nbsp;
 
-**Action Items:**
+## **Action Items:**
 
-Lookup: ~ Prefixing 💎
+Lookup: ~ Prefixing (@Josh meant this to be namespacing) ✅
 
 Get ergonomic office items: (creating budget) ✅
-  * Chair 💎
-  * 3 Monitors 💎
-  * Mac Docking Station 💎
-  * Backup battery 💎
+  * Chair 🍏
+  * 3 Monitors 🍏
+  * Mac Docking Station 🍏
+  * Backup battery 🍏
 
 Check Out: ~ Check out `Schizophrenic` ✅
 
 Lookup: ~ AWS pems and RSA 💎
 
-Resarch: ~ `rspec` 💎
+Resarch: ~ `rspec` ✅
 
 Lookup: ~ `statement of work` and `acceptance criteria` 💎
 
@@ -96,19 +97,17 @@ Lookup: ~ `revert` in Git ✅
 
 &nbsp;
 
-**Awesome Gems:** 🌹
+## **Awesome Gems:** 🌹
 
 Found really great [Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) tutorial 
 
 &nbsp;
 
-**Balance:** 
+## **Balance:** 
 
-Items Needed: 10
+Items Needed: 4
 
-  * Waiting: 4
+Items Completed: 19/19
 
-Items Completed: 16
-
-  * Waiting: 1
+  * Waiting: 5
   * Bonus: 4
