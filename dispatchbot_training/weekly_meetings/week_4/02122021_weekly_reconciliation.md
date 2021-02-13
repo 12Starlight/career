@@ -73,7 +73,7 @@ Get ergonomic office items: (created budget)
   * Mac Docking Station 🍏
   * Backup battery 🍏
 
-Lookup: ~ AWS pems and RSA 💎
+Lookup: ~ AWS pems and RSA ✅
 
 Lookup: ~ `statement of work` and `acceptance criteria` 💎
 
@@ -93,9 +93,9 @@ Lookup: ~ Namespacing 💎
 
 ## **Balance:** 
 
-Items Needed: 5 
+Items Needed: 4 
 
-Items Completed: 8/9
+Items Completed: 9/9
 
   * Waiting: 5
   * Bonus: 3
