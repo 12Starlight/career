@@ -1,6 +1,6 @@
 # **02/08/2021 9:45am <br> <br> Standup/Fire Meeting🔥**
 
-**Ideas**
+## **Ideas:**
 
 @Fox - Hopefully clients are getting emails for the seven days
 
@@ -11,12 +11,18 @@
 
 &nbsp;
 
-**Need**
+## **Need:**
+
+Nothing needed right now!
 
 &nbsp;
 
-**Questions**
+## **Questions:**
+
+No questions at this time!
 
 &nbsp;
 
-**Action Items:** 
+## **Action Items:** 
+
+Got everything done up to this point!
