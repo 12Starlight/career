@@ -78,6 +78,8 @@ Lookup: ~ Ingestor 💎
 
 Lookup: ~ pickles 💎
 
+Lookup: ~ Namespacing 💎
+
 
 &nbsp;
 
@@ -88,7 +90,7 @@ Lookup: ~ pickles 💎
 
 ## **Balance:** 
 
-Items Needed: 4
+Items Needed: 5 
 
 Items Completed: 8/9
 
