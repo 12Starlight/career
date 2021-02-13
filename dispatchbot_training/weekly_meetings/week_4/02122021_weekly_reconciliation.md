@@ -88,7 +88,7 @@ Lookup: ~ pickles 💎
 
 ## **Balance:** 
 
-Items Needed: 9
+Items Needed: 4
 
 Items Completed: 8/9
 
