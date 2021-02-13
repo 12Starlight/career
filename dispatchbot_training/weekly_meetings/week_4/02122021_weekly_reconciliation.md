@@ -75,7 +75,7 @@ Get ergonomic office items: (created budget)
 
 Lookup: ~ AWS pems and RSA ✅
 
-Lookup: ~ `statement of work` and `acceptance criteria` 💎
+Lookup: ~ `statement of work` and `acceptance criteria` ✅
 
 Lookup: ~ Ingestor 💎
 
@@ -93,9 +93,9 @@ Lookup: ~ Namespacing (orgainizing code in a tree like structure) ✅
 
 ## **Balance:** 
 
-Items Needed: 3 
+Items Needed: 2 
 
-Items Completed: 10/9
+Items Completed: 11/9
 
   * Waiting: 5
   * Bonus: 3
