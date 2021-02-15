@@ -249,7 +249,11 @@ Uploads all local branch commits to GitHub
 Downloads bookmark history and incorporates changes
 
 
+&nbsp;
 
+## **Note:**
 
+If system git takes precedence on OS X 10.11, then in your terminal run
 
+<kbd>export PATH="/usr/local/bin:$PATH"</kbd>
 
