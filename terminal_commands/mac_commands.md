@@ -91,6 +91,8 @@ the last command was ran.
 
 To learn more about Apple's `Darwin` operating system click [here](https://en.wikipedia.org/wiki/Darwin_(operating_system)).
 
+Disable SIP: Restart computer, hold <kbd>cmd + r</kbd>, then open terminal to type <kbd>csrutil disable</kbd>
+
 &nbsp;
 
 ### **More Details**
