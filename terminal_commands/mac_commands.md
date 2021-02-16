@@ -20,6 +20,9 @@
 
 <kbd>touch</kbd> ~ Make file
 
+<kbd>echo ["some_input"]</kbd> ~ Echos Standard Input to Standard Ouput
+  * <kbd>-n</kbd> ~ Option does not have line break at the end
+
 <kbd>open</kbd> ~ Open file
 
 <kbd>ls -la</kbd> ~ Shows all files open including `.` files
@@ -35,6 +38,8 @@
 <kbd>cmd + spacebar</kbd> ~ Opens finder (inside finder `/` takes you to root directory)
 
 <kbd>cp</kbd> ~ Copy a file
+
+<kbd>shasum</kbd> ~ Print or check SHA Checksums (Generates hash from any text input or file)
 
 <kbd>ctr + del</kbd> ~ Deletes characters in place
 
