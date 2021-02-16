@@ -6,6 +6,8 @@
 
 <kbd>cmd + w</kbd> ~ Closes terminal window
 
+<kbd>cmd + t</kbd> ~ Opens terminal in new tab
+
 <kbd>cmd + ,</kbd> ~ Opens preferences for window focused on
 
 <kbd>cd [directory_name]</kbd> ~ Directory change
